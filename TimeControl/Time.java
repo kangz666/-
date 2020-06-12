@@ -1,0 +1,10 @@
+package TimeControl;
+
+public class Time { 
+	public boolean flag;  // Ä¬ÈÏfalse ÅÐ¶Ï
+
+	public Time() {
+		super();
+	}
+	
+}
